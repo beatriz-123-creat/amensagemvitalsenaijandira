@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jogo_a_mensagem_vital:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jogo_a_mensagem_vital_jar</output-path>
+    <root id="archive" name="jogo_a_mensagem_vital.jar">
+      <element id="module-output" name="jogo_a_mensagem_vital" />
+    </root>
+  </artifact>
+</component>
